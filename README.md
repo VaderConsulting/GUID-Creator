@@ -1,6 +1,6 @@
 # GUID Creator
 
-Small VB6 utility that generates GUIDs for use in scripts and configuration.
+Small VB6 utility that generates GUIDs for use in scripts and configuration. Paste or copy a fresh identifier when wiring COM components, installer authoring, or config files that need a unique key.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
